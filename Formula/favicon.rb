@@ -4,7 +4,7 @@
 class Favicon < Formula
   desc "A command to create favicons for a provided image file"
   homepage ""
-  url "git+ssh://git@github.com:cachance7/utility-scripts"
+  url "https://git@github.com:cachance7/utility-scripts.git"
   version "0.1"
   sha256 ""
   license ""
